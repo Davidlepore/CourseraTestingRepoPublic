@@ -1,2 +1,5 @@
 # CourseraTestingRepoPublic
-Personal repo for IBM Data Science Professional Certificate Coursera course, public
+Personal repo for Coursera Classes
+Included so far:
+ - IBM Data Science Professional Certificate
+ - IBM AI Engineer Certificate
